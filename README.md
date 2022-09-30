@@ -2,7 +2,7 @@
 
 ## Here is the expected output
 
-![]([https://github.com/Kalvium-Program/spotify-clone-boilerplate/blob/main/assets/Spotify%20Web%20UI.png?raw=true](https://github.com/Kalvium-Program/amazon-clone-boilerplate/blob/main/assets/Amazon%20home%20UI.png?raw=true))
+![](https://github.com/Kalvium-Program/spotify-clone-boilerplate/blob/main/assets/Spotify%20Web%20UI.png?raw=true)
 
 Fork this repo and get started with the cloning project.
 
